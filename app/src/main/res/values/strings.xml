@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Raqamli Texnologiyalar Markazi</string>
+    <string name="rtm_info"><b>The purpose of the center is</b> - to increase the interest of young people in the field of IT and provide them with in-depth knowledge and skills in this area.</string>
+    <string name="sc_info"><i>The center also has more than 15 IT services and more than 30 training courses.</i></string>
+    <string name="contact">CONTACT US NOW</string>
+    <string name="adress">Marghilan, Hiyobon street 65z</string>
+    <string name="phone">+998(73) 254 24 04</string>
+    <string name="site">www.mrtm.uz</string>
+</resources>
